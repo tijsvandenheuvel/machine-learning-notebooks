@@ -20,6 +20,12 @@ from the _AP University College Antwerp_
 
 The goal of this data analysis report is to predict if an employee will be absent often based on variables of the Absenteeism At Work dataset, with a focus on feature contribution. 
 
+## Tweet analysis and emoji prediction
+
+This report describes the results of a research to predict emotion from tweets.
+
+More in particular the goal of this project was to predict an emoji based on text from a tweet.
+
 ## Wikipedia hyperlink network
 
 In this project is a study in 
